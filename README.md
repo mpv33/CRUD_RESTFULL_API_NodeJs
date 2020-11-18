@@ -1,7 +1,7 @@
 # CRUD_RESTFULL_API_NodeJs
 
 # API END-POINT 
-####  API end points  dummy user api
+##  API end points  dummy user api
 ####  GET /api/users: will give all users stored in database
 ####  GET /api/users/<user_id>: will give a specific user with user_id.
 ####  POST /api/users : user can create a new user
@@ -9,7 +9,7 @@
 ####  DELETE /api/users/<user_id>: delete a user
 ####  PUT /api/users/<user_id>: update a user completely
 
-#### API end points course api
+# API end points course api
 #### GET /api/course: will give all users stored in database
 #### GET /api/course/<course_id>: will give a specific user with user_id.
 #### POST /api/course : user can create a new user
@@ -20,7 +20,7 @@
 
 
 
-#### Input format : potsman testing 
+# Input format : potsman testing 
 #### course_id: String,
 #### course_title: String,
 #### course_description: String,
